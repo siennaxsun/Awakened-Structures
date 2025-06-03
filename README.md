@@ -8,7 +8,7 @@ The thesis research explores how shape-changing materials and mobile robots can 
 
 ---
 
-## 🧠 Keywords
+**Keywords**
 
 Collective Robotic Construction • Agent-Based Modeling • Discrete assembly • Shape-Changing Materials • Material-Robot Co-Design
 
