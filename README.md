@@ -12,3 +12,8 @@ The thesis research explores how shape-changing materials and mobile robots can 
 
 Collective Robotic Construction • Agent-Based Modeling & Simulation • Discrete assembly • Shape-Changing Materials • Material-Robot Co-Design
 
+---
+
+**Note**
+
+This is the part effort of the master thesis research--Awakened Structures-- with the teammate Joyce Wu
