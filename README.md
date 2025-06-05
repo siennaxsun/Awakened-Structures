@@ -1,6 +1,4 @@
-# Awakened-Structures
-
-**A Novel Robot-Material System for Parallel Construction**
+# Overview
 
 This repository contains the Grasshopper implementation of an **assembly algorithm integrating agent-based modeling with A* pathfinding** developed as part of the *Awakened Structures* thesis project.
 
@@ -16,4 +14,4 @@ Collective Robotic Construction • Agent-Based Modeling & Simulation • Discre
 
 **Note**
 
-This is the part effort of the master thesis research--Awakened Structures-- with the teammate Joyce Wu
+This is the part effort of the master thesis research--**Awakened Structures**-- with the teammate Joyce Wu
