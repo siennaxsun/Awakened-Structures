@@ -14,4 +14,4 @@ Collective Robotic Construction • Agent-Based Modeling & Simulation • Discre
 
 **Note**
 
-This is the part effort of the master thesis research the teammate Joyce Wu. Future iteration may consider the integration of structral performance and constraints.
+This is the part effort of the master thesis research with the teammate Joyce Wu. Future iterations may consider the integration of structual performance and constraints.
